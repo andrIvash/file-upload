@@ -1,6 +1,8 @@
 {
   "name": "file-upload",
-  "version": "0.0.0",
+  "description": "Simple API sample with file upload",
+  "homepage": "https://github.com/andrIvash/file-upload",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "start" : "./node_modules/nodemon/bin/nodemon.js ./server.js"
