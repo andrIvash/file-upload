@@ -1,6 +1,6 @@
 # Simple API sample with file upload
 
-### Технологии
+### Technologies
  
  * Node.js v6.9.2 LTS
  * ES 6
@@ -20,7 +20,7 @@
  
  ```
  
- ### API (image file upload)
+### API (image file upload)
  return JSON
 * main path - http://localhost:3000/api/photos 
 * get request - return list of files
